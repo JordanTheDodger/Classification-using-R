@@ -1,4 +1,4 @@
-df<-read.csv('E:/COSC 757 Data Mining/Assignments/4/Liver Patient Dataset.csv')
+df<-read.csv(file.choose())
 colnames(df)
 
 #EDA
